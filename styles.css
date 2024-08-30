@@ -33,7 +33,7 @@ img {
 }
 
 footer {
-  margin-top: 5%;
+  margin-top: 2%;
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
@@ -41,7 +41,17 @@ footer {
 }
 
 .btnContainer {
+  margin-top: 20px;
   display: flex;
   justify-content: center;
+}
+
+.btn {
+  border-radius: 10px;
+  padding: 10px 20px 10px 20px;
+  background-color: #4ECCA3;
+  font-size: 16px;
+  font-family: 'Lobster', cursive;
+  color: #232931;
 }
 
